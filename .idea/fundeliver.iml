@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/doctor_bear_api" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/easyfund_api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fundations" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
